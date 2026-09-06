@@ -47,7 +47,6 @@ GitHub's way of keeping score. Apparently I'm winning.
 | GDG OnTrack | carpool app so broke college kids can split gas money | Java · Firebase |
 | [pqc_bench](https://github.com/clustercoder/pqc_bench) | crypto that's ready for the quantum computers that don't exist yet | Qiskit |
 | [SuperGraphene](https://github.com/MuaazSM/SuperGraphene) | one big graph so fraud has nowhere left to hide — 🥈 KODE 2026 | Neo4j |
-| [SuperSerene](https://github.com/MuaazSM/SuperSerene) | mental-health triage for teens — the one project on this list I don't joke about | LangChain |
 
 <details>
 <summary>More security work</summary>
@@ -63,7 +62,7 @@ GitHub's way of keeping score. Apparently I'm winning.
 
 Repos where my name isn't on the door but my commits are:
 
-[thryvez-mainsite](https://github.com/udayand4s/thryvez-mainsite) (majority commits) · [CTF-GDG](https://github.com/Whitehat-blackclover/CTF-GDG) (majority commits) · [csaw_llm_pied-piper](https://github.com/MuaazSM/csaw_llm_pied-piper) · [SuperGraphene](https://github.com/MuaazSM/SuperGraphene) · [TriageOps](https://github.com/JugaadChhabra/TriageOps) · [SuperSerene](https://github.com/MuaazSM/SuperSerene) · [pwned-notes](https://github.com/sokhiaryan/pwned-notes)
+[thryvez-mainsite](https://github.com/udayand4s/thryvez-mainsite) (majority commits) · [CTF-GDG](https://github.com/Whitehat-blackclover/CTF-GDG) (majority commits) · [csaw_llm_pied-piper](https://github.com/MuaazSM/csaw_llm_pied-piper) · [SuperGraphene](https://github.com/MuaazSM/SuperGraphene) · [TriageOps](https://github.com/JugaadChhabra/TriageOps) · [pwned-notes](https://github.com/sokhiaryan/pwned-notes)
 
 ### Experience
 
